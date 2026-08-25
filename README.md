@@ -1,2 +1,12 @@
-# nan-auto-clicker
-nanAutoClicker — A lightweight Python auto-clicker with global hotkey support and randomized timing to simulate natural human clicks.
+# Auto Clicker
+
+A configurable Python autoclicker with keyboard and mouse support.
+
+## Controls
+
+- F6: Start or stop
+- Esc: Exit
+
+## Warning
+
+Use responsibly and check the rules of any application or game before using it.
